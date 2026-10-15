@@ -169,7 +169,7 @@ Escape:
 - [escape-webview](https://github.com/pauljump/escape-webview) - Breaks out of X, Instagram, Facebook and TikTok in-app browsers.
 - [inapp-escape](https://github.com/deepthix/inapp-escape) - Escapes Instagram, TikTok, Facebook and X in-app browsers.
 - [InAppBrowser-Escaper](https://github.com/jeonghunn/InAppBrowser-Escaper) - In-app browser escape helper.
-- [open-in-native-browser](https://github.com/muddassirhq/open-in-native-browser) - Detects 14 in-app browsers, hands off to Safari/Chrome per app, with a fallback banner. npm, script tag, WordPress plugin and GTM template; usable on shortener interstitials.
+- [open-in-native-browser](https://github.com/muddassirhq/open-in-native-browser) - Detects 14 in-app browsers, hands off to Safari/Chrome per app, with a fallback banner. Works via npm or a script tag, including on shortener interstitials.
 
 ### Testing tools
 
