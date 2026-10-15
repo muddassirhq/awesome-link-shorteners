@@ -11,6 +11,8 @@ Most short links are tapped inside Instagram, TikTok, LinkedIn, Facebook or What
 - [Hosted shorteners](#hosted-shorteners)
 - [App-opener and in-app escape links](#app-opener-and-in-app-escape-links)
 - [Link-in-bio pages](#link-in-bio-pages)
+  - [Hosted bio pages](#hosted-bio-pages)
+  - [Open-source bio pages](#open-source-bio-pages)
 - [Self-hosted open-source shorteners](#self-hosted-open-source-shorteners)
   - [Serverless and static](#serverless-and-static)
 - [Commercial self-hosted](#commercial-self-hosted)
@@ -76,7 +78,7 @@ Links built to open the right app (YouTube, Amazon, Spotify) or to leave social 
 
 Bio pages are opened from Instagram and TikTok profiles, so nearly every visit starts inside an in-app browser.
 
-**Hosted**
+### Hosted bio pages
 
 | Service | In-app escape |
 |---|---|
@@ -84,7 +86,9 @@ Bio pages are opened from Instagram and TikTok profiles, so nearly every visit s
 | [Bio.link](https://bio.link) | — |
 | [Linktree](https://linktr.ee) | — |
 
-**Open source** — these render HTML, so an escape script can go straight into the page `<head>`.
+### Open-source bio pages
+
+These render HTML, so an escape script can go straight into the page `<head>`.
 
 - [LinkNode](https://github.com/sujjeee/linknode) - Link-in-bio page generator. TypeScript.
 - [Linkees](https://github.com/heysagnik/Linkees) - Linktree clone in React.
