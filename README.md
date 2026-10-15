@@ -19,7 +19,6 @@ This list collects the research, libraries, techniques and tools for dealing wit
 - [Open-source link-in-bio pages](#open-source-link-in-bio-pages)
 - [Hosted services](#hosted-services)
 - [Related lists](#related-lists)
-- [Contributing](#contributing)
 
 ## Understanding the problem
 
@@ -44,7 +43,7 @@ Observed techniques. None are officially documented except LINE's, and apps chan
 | WhatsApp | `WAiOS`, `WA4A` | `x-safari-https://…` | intent |
 | Telegram | `window.TelegramWebviewProxy` | `x-safari-https://…` | intent |
 | LINE | `Line/` | `?openExternalBrowser=1` (official) | same |
-| WeChat | `MicroMessenger` | none — show "··· → Open in browser" | none |
+| WeChat | `MicroMessenger` | none — show "three-dot menu → Open in browser" | none |
 
 ## Libraries
 
@@ -126,6 +125,3 @@ Commercial link tools that advertise opening links outside in-app browsers.
 
 Contributions welcome — read [CONTRIBUTING.md](CONTRIBUTING.md). Device test results for the cheat sheet are especially valuable: open an issue with app, app version, OS version, technique and result.
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
